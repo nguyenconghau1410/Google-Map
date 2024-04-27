@@ -1,0 +1,16 @@
+{
+    "cSpell.words": [
+        "debouncer",
+        "dotenv",
+        "easyloading",
+        "Geolocator",
+        "latlng",
+        "LTRB",
+        "Polyline",
+        "tilemap",
+        "usecase",
+        "Vietmap"
+    ],
+    "cSpell.language": "en,vi",
+    "dart.flutterSdkPath": "/Users/dev/fvm/default/bin"
+}
